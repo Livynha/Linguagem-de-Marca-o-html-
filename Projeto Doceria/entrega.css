@@ -1,0 +1,25 @@
+header {
+    width: 1492px;
+    height: 750px;
+    background-color: #ffc6d5;
+    font-family: serif;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+div {
+    font-size: 60px;
+    border: #361e1e;
+    border-radius: 10px;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+}
+#resumo{
+    margin-top: 90px;
+    font-size: 20px;
+    margin-left: 155px;
+}
