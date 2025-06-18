@@ -1,0 +1,42 @@
+body{
+background-color:#fff2ef;
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+
+
+}
+#div_1{
+   
+   
+        border-radius: 10px;
+        max-width: 400px;
+        margin: 50px 500px;
+        border: 1px;
+        background-color: rgb(245, 228, 228);
+        padding:20px;
+       
+        
+    
+}
+button{
+    padding: 9px;
+    border-radius: 7px;
+    }
+    input{
+        padding: 9px;
+        border-radius: 7px;
+        }
+
+header{
+    color:#000;
+    padding:20px;
+    border: 1px solid rgb(245, 228, 228);
+    background-color: rgb(245, 228, 228);
+    
+}
+*{
+    border: 0px;
+    margin: 0px;
+}
+    
+   

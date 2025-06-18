@@ -1,0 +1,15 @@
+
+
+header:active{
+color: blue;
+
+
+}
+
+p:active{
+color: blue;
+background-color: black;
+}
+header:hover{
+    color:blue;
+}

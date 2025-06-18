@@ -1,0 +1,16 @@
+/* li{
+    text-align: center;
+} */
+
+ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(151, 212, 236);
+
+}

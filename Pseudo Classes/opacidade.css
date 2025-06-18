@@ -1,0 +1,20 @@
+Body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+     background-image: url(https://thumbs.dreamstime.com/b/um-padr%C3%A3o-repetitivo-de-diamante-sobrep%C3%B5e-se-e-varia-em-camadas-opacidade-fundo-geom%C3%A9trico-abstrato-365243952.jpg);
+   
+}
+
+header:hover{
+opacity: 0.1;
+
+
+}
+header{
+    border: 1px solid black ;
+    background-color: rgb(105, 155, 202);
+    font-size: 50px;
+    
+}
