@@ -20,7 +20,7 @@ function menu() {
 
 function AdicionarProdutos() {
     const nome = readline.question("nome do produto que deseja adicionar:");
-    const preco = parseFloat(readline.question("preco"));
+    const preco = parseFloat(readline.question("preço:"));
     produto.push({ nome, preco });
     console.log("produto Adicionado com sucesso!");
 }
@@ -69,7 +69,7 @@ function removerProduto() {
 let opcao
 do {
     menu();
-    opcao = readline.questionInt("Escolher uma opcao:");
+    opcao = readline.questionInt("Escolher uma opção:");
     switch (opcao) {
         case 1:
             AdicionarProdutos();
@@ -95,6 +95,7 @@ do {
     }
 }
 while(opcao !==0);
+
 
 
 
